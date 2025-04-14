@@ -1,5 +1,5 @@
 # Dual-N-Back
-This is a simple game I designed in my 2nd year using OOP C++
+This is a simple game I designed in my 2nd year using C++ OOP
 
 ## Implementation
 In this project, the visual aspect of the Dual-N-Back game is implemented. The user needs to remember the positions of the object in the 3x3 grid for each round and enter whether it is the same or different from N rounds ago. The program will calculate how many times the user is correct and display the final result at the end.
