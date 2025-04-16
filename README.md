@@ -6,7 +6,7 @@ In this project, the visual aspect of the Dual-N-Back game is implemented. The u
 
 ![image](https://github.com/user-attachments/assets/3b6f3190-abf8-4ce8-879b-44630c2112f2)
 
-## New feature - From Quiz Game to RPG
+## New feature - from quiz game to RPG
 The Dual-N-Back game is simple and doesn’t require much effort or energy to play. However, the lack of color and imagery can make it bland and boring for many users. Therefore, we decided to not only test the user’s memory but to also tickle their imagination in the game. 
 Images  created using ASCII characters have been added to the program to create a sense of story. At the start of the game, the user is shown to be in  a village and is told that he must face the coming challenges to escape. 
 
